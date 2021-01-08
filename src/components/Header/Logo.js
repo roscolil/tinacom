@@ -7,7 +7,7 @@ const Logo = () => (
   <Image
     size="mini"
     src={moltin}
-    style={{marginRight: '1.5em'}}
+    style={{marginRight: '1.5em', background: 'green'}}
     alt="I love Lamp"
   />
 )
